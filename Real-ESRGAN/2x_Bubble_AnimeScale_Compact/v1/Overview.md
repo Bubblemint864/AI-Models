@@ -10,7 +10,7 @@ This is the first model I've ever trained, so it's far from perfect, but I belie
 
 I extracted 1,845 anime frames from various Blu Ray discs and web releases to create the dataset. These were used for the HQ reference images and were left untouched without further filtering. I used a variety of techniques to create the LQ images. The LQ set is mostly made up of images from the HQ set that were randomly downscaled using the area, bicubic, billinear, lanczos, and neighbour scaling algorithms. I then used a combination of gaussian blur, noise, and x264/mpeg2/vp9 compression on some of those frames. I previously stated that halfway through, I messed up the dataset by introducing too much uniform noise into it. As the training progressed, I degraded more images to help with compression removal. As a result, the model learned how to remove some artefacts and blocking - but it still struggles to remove banding, which I believe is a limitation of compact. Relating to compact, I was not able to mitigate artefacts caused by compact, so you may see green/pink artefacts on some images.
 
-It took around 2 days of training to get to the final model. I have included previous iterations in this repository as they may/may not suffer from less problems and possibly might suit your needs more.
+It took around 2 days of training and 1,350,000 iterations to get to the final model. I have included previous iterations in this repository as they may/may not suffer from less problems and possibly might suit your needs more.
 
 In conclusion, I think that this is a good start - and I can't wait to train more models. This has been a fun learning experience! :D
 
