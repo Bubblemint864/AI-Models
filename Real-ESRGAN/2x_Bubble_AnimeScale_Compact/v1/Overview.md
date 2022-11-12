@@ -8,6 +8,9 @@
 ![](http://bubblemint.cumz.one/2Nfnb5p.png) | ![](http://bubblemint.cumz.one/4U8Z7We.png) | https://imgsli.com/MTM0MjA2 | https://slow.pics/c/KzD3ngOu
 ![](http://bubblemint.cumz.one/2uefvE8.png) | ![](http://bubblemint.cumz.one/2uefvE8.png) | https://imgsli.com/MTM0MjE1 | https://slow.pics/c/4pZ8ZS8V
 
+| Input | Output |
+:-------------------------:|:-------------------------:|
+
 
 This model was trained to attempt to upscale low resolution anime images with less detail loss compared to the [AnimeVideoV3](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/anime_video_model.md) model by [xinntao](https://github.com/xinntao/).
 
