@@ -12,6 +12,7 @@
 |:-----:|:------:|
 [<img src="http://bubblemint.cumz.one/4LwZNh5.png" width="100%">](http://bubblemint.cumz.one/7zMtiVe.mp4 "540p") |[<img src="http://bubblemint.cumz.one/46T8QG5.png" width="100%">](http://bubblemint.cumz.one/9U2L6CW.mp4 "1080p")
 [<img src="http://bubblemint.cumz.one/8nyJYb4.png" width="100%">](http://bubblemint.cumz.one/4SmJ8GW.mp4 "540p") |[<img src="http://bubblemint.cumz.one/4BJKRmw.png" width="100%">](http://bubblemint.cumz.one/2pV5Mqo.mp4 "1080p")
+[<img src="http://bubblemint.cumz.one/6BvnHFK.png" width="100%">](http://bubblemint.cumz.one/7h7gskr.mp4 "540p") |[<img src="http://bubblemint.cumz.one/h3b6pCu.png" width="100%">](http://bubblemint.cumz.one/3p4jAoC.mp4 "1080p")
 
 This model was trained to attempt to upscale low resolution anime images with less detail loss compared to the [AnimeVideoV3](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/anime_video_model.md) model by [xinntao](https://github.com/xinntao/).
 
