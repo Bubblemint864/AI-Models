@@ -5,7 +5,7 @@ A simple repository where I upload models that I have trained and other related 
 
 |  Scale  |  Model Name  |  Architecture  |  Release  |
 | -- | -------------------- | ------------------- | ----------------------------------- |
-| 2x | Bubble_AnimeScale_Compact_v1 | [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) Compact | [Link](https://github.com/Bubblemint864/AI-Models/releases/tag/Model-Release)
+| 2x | Bubble_AnimeScale_Compact_v1 | [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) Compact | [Link](https://github.com/Bubblemint864/AI-Models/releases/tag/2x_Bubble_AnimeScale_Compact_v1)
 
 ## Donations
 If you want to donate to me for whatever reason, I accept donations via cryptocurrency - feel free to add a memo/note alongisde your donation! If you want to donate via a different method then message me on Discord: Bubblemint#6472
