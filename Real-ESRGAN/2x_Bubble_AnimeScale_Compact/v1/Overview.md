@@ -1,5 +1,5 @@
 # 2x_Bubble_AnimeScale_Compact_v1
-
+## Images
 | Input | Output | imgsli | slow.pics |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 ![](http://bubblemint.cumz.one/2Novf7f.png)  |  ![](http://bubblemint.cumz.one/3E3s1Up.png) | https://imgsli.com/MTM0MTkw | https://slow.pics/c/Y0AaOa3e
@@ -7,10 +7,11 @@
 ![](http://bubblemint.cumz.one/9HQsU6W.png) | ![](http://bubblemint.cumz.one/9HQsU6W.png) | https://imgsli.com/MTM0MjEw | https://slow.pics/c/2QmPplix
 ![](http://bubblemint.cumz.one/2Nfnb5p.png) | ![](http://bubblemint.cumz.one/4U8Z7We.png) | https://imgsli.com/MTM0MjA2 | https://slow.pics/c/KzD3ngOu
 ![](http://bubblemint.cumz.one/2uefvE8.png) | ![](http://bubblemint.cumz.one/2uefvE8.png) | https://imgsli.com/MTM0MjE1 | https://slow.pics/c/4pZ8ZS8V
-
+## Videos
 | Input | Output |
-:-------------------------:|:-------------------------:|
-
+|:-----:|:------:|
+[<img src="http://bubblemint.cumz.one/4LwZNh5.png" width="100%">](http://bubblemint.cumz.one/7zMtiVe.mp4 "540p") |[<img src="http://bubblemint.cumz.one/46T8QG5.png" width="100%">](http://bubblemint.cumz.one/9U2L6CW.mp4 "1080p")
+[<img src="http://bubblemint.cumz.one/8nyJYb4.png" width="100%">](http://bubblemint.cumz.one/4SmJ8GW.mp4 "540p") |[<img src="http://bubblemint.cumz.one/4BJKRmw.png" width="100%">](http://bubblemint.cumz.one/2pV5Mqo.mp4 "1080p")
 
 This model was trained to attempt to upscale low resolution anime images with less detail loss compared to the [AnimeVideoV3](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/anime_video_model.md) model by [xinntao](https://github.com/xinntao/).
 
@@ -22,4 +23,4 @@ It took around 2 days of training and 1,355,000 iterations to get to the final m
 
 In conclusion, I think that this is a good start - and I can't wait to train more models. This has been a fun learning experience! :D
 
-Special thanks to `Kim#9859` and `musl#0800` from the [Enhance Everything](https://discord.gg/cpAUpDK) server for helping me. This would not have been possible without you guys!
+Special thanks to `Kim#9859`, `musl#0800` and `twittman#3594` from the [Enhance Everything](https://discord.gg/cpAUpDK) server for helping me. This would not have been possible without you guys!
