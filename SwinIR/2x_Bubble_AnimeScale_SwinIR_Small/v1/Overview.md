@@ -1,4 +1,4 @@
-# 2x_Bubble_AnimeScale_SwinIR_Small
+# 2x_Bubble_AnimeScale_SwinIR_Small_v1
 ## Images
 | Input | Output | imgsli | slow.pics |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
